@@ -8,7 +8,7 @@ Userscript који конвертује 12-часовни формат (AM/PM) 
    - Chrome/Edge: [Violentmonkey](https://violentmonkey.github.io/) или [Tampermonkey](https://www.tampermonkey.net/)
    - Firefox: [Violentmonkey](https://violentmonkey.github.io/) или Greasemonkey
 
-2. Кликните на `tailscale-24hour.user.js` фајл
+2. Кликните на `tailscale-24h.user.js` фајл
    - Ако имате инсталирану екстензију, аутоматски ће понудити инсталацију
    - Или отворите Tampermonkey Dashboard → Create new script → копирајте садржај фајла
 
