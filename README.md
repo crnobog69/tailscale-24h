@@ -10,7 +10,7 @@ Userscript који конвертује 12-часовни формат (AM/PM) 
 
 2. Кликните на `tailscale-24h.user.js` фајл
    - Ако имате инсталирану екстензију, аутоматски ће понудити инсталацију
-   - Или отворите Tampermonkey Dashboard → Create new script → копирајте садржај фајла
+   - Или отворите Tampermonkey Dashboard → New → залепите садржај фајла `tailscale-24h.user.js`
 
 3. Сачувајте скрипту
 
